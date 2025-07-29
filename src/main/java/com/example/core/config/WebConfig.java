@@ -21,4 +21,8 @@ public class WebConfig {
             }
         };
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e39deee (Added WebConfig and updated SecurityConfig and CustomerController)
